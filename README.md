@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my roboFriends App created using React!
+
+The App allows the user to search through the robots and find contact cards for each one! the app is fully responsive and is incredibly easy to navigate - creating great user experience!
+
 
 ## Available Scripts
 
